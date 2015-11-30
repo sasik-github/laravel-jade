@@ -46,3 +46,4 @@ class ServiceProvider extends BaseServiceProvider
         $app['view']->addExtension('jade.php', 'jade');
     }
 }
+
